@@ -1,0 +1,14 @@
+{
+    "exampleParam":{
+        "objectiveFunction" : "-(x**2)+(5*x)+20",
+        "particlePositions" : [-9.6, -6, -2.6, -1.1, 0.6, 2.3, 2.8, 8.3, 10],
+        "constant1" : 2,
+        "constant2" : 2,
+        "omegaW" : 2,
+        "iterations": 100,
+        "isMax" : false,
+        "lowerBound" : -10,
+        "upperBound" : 10
+}
+
+}
